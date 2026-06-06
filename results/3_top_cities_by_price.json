@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Newport Coast, CA",
+    "average_price": "1819500.00"
+  },
+  {
+    "city": "Corona del Mar, CA",
+    "average_price": "1799995.00"
+  },
+  {
+    "city": "Solvang, CA",
+    "average_price": "1795000.00"
+  },
+  {
+    "city": "Palos Verdes Estates, CA",
+    "average_price": "1784000.00"
+  },
+  {
+    "city": "Villa Park, CA",
+    "average_price": "1771999.80"
+  },
+  {
+    "city": "Westchester, CA",
+    "average_price": "1750000.00"
+  },
+  {
+    "city": "Rancho Santa Fe, CA",
+    "average_price": "1724987.56"
+  },
+  {
+    "city": "West Hollywood, CA",
+    "average_price": "1679000.00"
+  },
+  {
+    "city": "Venice, CA",
+    "average_price": "1669142.86"
+  },
+  {
+    "city": "La Jolla, CA",
+    "average_price": "1653508.95"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Cuyama, CA",
+    "avg_price_per_sqft": "1611.00"
+  },
+  {
+    "city": "Santa Monica, CA",
+    "avg_price_per_sqft": "1492.00"
+  },
+  {
+    "city": "Venice, CA",
+    "avg_price_per_sqft": "1440.00"
+  },
+  {
+    "city": "El Segundo, CA",
+    "avg_price_per_sqft": "1102.00"
+  },
+  {
+    "city": "Beverly Hills, CA",
+    "avg_price_per_sqft": "1053.00"
+  },
+  {
+    "city": "Redondo Beach, CA",
+    "avg_price_per_sqft": "1013.67"
+  },
+  {
+    "city": "Echo Park, CA",
+    "avg_price_per_sqft": "1009.00"
+  },
+  {
+    "city": "Los Feliz, CA",
+    "avg_price_per_sqft": "960.00"
+  },
+  {
+    "city": "Solana Beach, CA",
+    "avg_price_per_sqft": "955.36"
+  },
+  {
+    "city": "Laguna Beach, CA",
+    "avg_price_per_sqft": "895.27"
+  }
+]

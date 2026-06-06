@@ -1,0 +1,627 @@
+[
+  {
+    "bed": 3,
+    "bath": 2,
+    "total_listings": "3087"
+  },
+  {
+    "bed": 4,
+    "bath": 3,
+    "total_listings": "1734"
+  },
+  {
+    "bed": 4,
+    "bath": 2,
+    "total_listings": "1181"
+  },
+  {
+    "bed": 3,
+    "bath": 2.1,
+    "total_listings": "1104"
+  },
+  {
+    "bed": 2,
+    "bath": 2,
+    "total_listings": "936"
+  },
+  {
+    "bed": 4,
+    "bath": 2.1,
+    "total_listings": "920"
+  },
+  {
+    "bed": 2,
+    "bath": 1,
+    "total_listings": "763"
+  },
+  {
+    "bed": 3,
+    "bath": 3,
+    "total_listings": "736"
+  },
+  {
+    "bed": 5,
+    "bath": 3,
+    "total_listings": "694"
+  },
+  {
+    "bed": 4,
+    "bath": 3.1,
+    "total_listings": "510"
+  },
+  {
+    "bed": 3,
+    "bath": 1,
+    "total_listings": "416"
+  },
+  {
+    "bed": 3,
+    "bath": 3.1,
+    "total_listings": "355"
+  },
+  {
+    "bed": 4,
+    "bath": 4.1,
+    "total_listings": "278"
+  },
+  {
+    "bed": 5,
+    "bath": 4.1,
+    "total_listings": "272"
+  },
+  {
+    "bed": 5,
+    "bath": 3.1,
+    "total_listings": "260"
+  },
+  {
+    "bed": 4,
+    "bath": 4,
+    "total_listings": "249"
+  },
+  {
+    "bed": 5,
+    "bath": 4,
+    "total_listings": "227"
+  },
+  {
+    "bed": 1,
+    "bath": 1,
+    "total_listings": "174"
+  },
+  {
+    "bed": 3,
+    "bath": 1.1,
+    "total_listings": "164"
+  },
+  {
+    "bed": 2,
+    "bath": 1.1,
+    "total_listings": "126"
+  },
+  {
+    "bed": 5,
+    "bath": 2.1,
+    "total_listings": "121"
+  },
+  {
+    "bed": 2,
+    "bath": 2.1,
+    "total_listings": "120"
+  },
+  {
+    "bed": 5,
+    "bath": 2,
+    "total_listings": "84"
+  },
+  {
+    "bed": 6,
+    "bath": 4.1,
+    "total_listings": "75"
+  },
+  {
+    "bed": 5,
+    "bath": 5.1,
+    "total_listings": "74"
+  },
+  {
+    "bed": 6,
+    "bath": 4,
+    "total_listings": "73"
+  },
+  {
+    "bed": 6,
+    "bath": 3,
+    "total_listings": "61"
+  },
+  {
+    "bed": 5,
+    "bath": 5,
+    "total_listings": "54"
+  },
+  {
+    "bed": 2,
+    "bath": 3,
+    "total_listings": "44"
+  },
+  {
+    "bed": 4,
+    "bath": 5,
+    "total_listings": "42"
+  },
+  {
+    "bed": 6,
+    "bath": 3.1,
+    "total_listings": "40"
+  },
+  {
+    "bed": 3,
+    "bath": 4,
+    "total_listings": "32"
+  },
+  {
+    "bed": 6,
+    "bath": 5.1,
+    "total_listings": "28"
+  },
+  {
+    "bed": 4,
+    "bath": 1.1,
+    "total_listings": "27"
+  },
+  {
+    "bed": 4,
+    "bath": 1,
+    "total_listings": "27"
+  },
+  {
+    "bed": 4,
+    "bath": 4.2,
+    "total_listings": "20"
+  },
+  {
+    "bed": 6,
+    "bath": 6.1,
+    "total_listings": "18"
+  },
+  {
+    "bed": 6,
+    "bath": 5,
+    "total_listings": "18"
+  },
+  {
+    "bed": 4,
+    "bath": 5.1,
+    "total_listings": "18"
+  },
+  {
+    "bed": 7,
+    "bath": 3,
+    "total_listings": "17"
+  },
+  {
+    "bed": 4,
+    "bath": 2.2,
+    "total_listings": "16"
+  },
+  {
+    "bed": 7,
+    "bath": 4,
+    "total_listings": "15"
+  },
+  {
+    "bed": 1,
+    "bath": 1.1,
+    "total_listings": "14"
+  },
+  {
+    "bed": 4,
+    "bath": 3.2,
+    "total_listings": "13"
+  },
+  {
+    "bed": 5,
+    "bath": 6,
+    "total_listings": "12"
+  },
+  {
+    "bed": 3,
+    "bath": 2.2,
+    "total_listings": "11"
+  },
+  {
+    "bed": 3,
+    "bath": 4.1,
+    "total_listings": "11"
+  },
+  {
+    "bed": 7,
+    "bath": 5,
+    "total_listings": "10"
+  },
+  {
+    "bed": 6,
+    "bath": 6,
+    "total_listings": "8"
+  },
+  {
+    "bed": 1,
+    "bath": 2,
+    "total_listings": "8"
+  },
+  {
+    "bed": 7,
+    "bath": 5.1,
+    "total_listings": "8"
+  },
+  {
+    "bed": 2,
+    "bath": 3.1,
+    "total_listings": "7"
+  },
+  {
+    "bed": 3,
+    "bath": 3.2,
+    "total_listings": "7"
+  },
+  {
+    "bed": 6,
+    "bath": 2,
+    "total_listings": "7"
+  },
+  {
+    "bed": 7,
+    "bath": 4.1,
+    "total_listings": "7"
+  },
+  {
+    "bed": 3,
+    "bath": 0,
+    "total_listings": "7"
+  },
+  {
+    "bed": 5,
+    "bath": 3.2,
+    "total_listings": "6"
+  },
+  {
+    "bed": 5,
+    "bath": 4.2,
+    "total_listings": "6"
+  },
+  {
+    "bed": 7,
+    "bath": 6.1,
+    "total_listings": "6"
+  },
+  {
+    "bed": 8,
+    "bath": 4,
+    "total_listings": "6"
+  },
+  {
+    "bed": 5,
+    "bath": 7,
+    "total_listings": "5"
+  },
+  {
+    "bed": 6,
+    "bath": 2.1,
+    "total_listings": "5"
+  },
+  {
+    "bed": 2,
+    "bath": 2.2,
+    "total_listings": "4"
+  },
+  {
+    "bed": 3,
+    "bath": 5,
+    "total_listings": "4"
+  },
+  {
+    "bed": 7,
+    "bath": 5.2,
+    "total_listings": "4"
+  },
+  {
+    "bed": 6,
+    "bath": 1,
+    "total_listings": "4"
+  },
+  {
+    "bed": 6,
+    "bath": 5.2,
+    "total_listings": "3"
+  },
+  {
+    "bed": 7,
+    "bath": 6,
+    "total_listings": "3"
+  },
+  {
+    "bed": 5,
+    "bath": 6.1,
+    "total_listings": "3"
+  },
+  {
+    "bed": 2,
+    "bath": 0,
+    "total_listings": "3"
+  },
+  {
+    "bed": 4,
+    "bath": 5.2,
+    "total_listings": "3"
+  },
+  {
+    "bed": 8,
+    "bath": 3,
+    "total_listings": "3"
+  },
+  {
+    "bed": 3,
+    "bath": 3.3,
+    "total_listings": "2"
+  },
+  {
+    "bed": 7,
+    "bath": 7.1,
+    "total_listings": "2"
+  },
+  {
+    "bed": 5,
+    "bath": 1,
+    "total_listings": "2"
+  },
+  {
+    "bed": 6,
+    "bath": 8.1,
+    "total_listings": "2"
+  },
+  {
+    "bed": 4,
+    "bath": 7,
+    "total_listings": "2"
+  },
+  {
+    "bed": 6,
+    "bath": 7,
+    "total_listings": "2"
+  },
+  {
+    "bed": 5,
+    "bath": 8.1,
+    "total_listings": "2"
+  },
+  {
+    "bed": 5,
+    "bath": 2.2,
+    "total_listings": "2"
+  },
+  {
+    "bed": 7,
+    "bath": 4.2,
+    "total_listings": "2"
+  },
+  {
+    "bed": 8,
+    "bath": 7.1,
+    "total_listings": "2"
+  },
+  {
+    "bed": 4,
+    "bath": 6,
+    "total_listings": "2"
+  },
+  {
+    "bed": 10,
+    "bath": 5,
+    "total_listings": "2"
+  },
+  {
+    "bed": 3,
+    "bath": 1.2,
+    "total_listings": "2"
+  },
+  {
+    "bed": 8,
+    "bath": 6.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 10,
+    "bath": 8,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 7,
+    "total_listings": "1"
+  },
+  {
+    "bed": 4,
+    "bath": 13,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 6,
+    "total_listings": "1"
+  },
+  {
+    "bed": 6,
+    "bath": 8,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 5.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 0,
+    "total_listings": "1"
+  },
+  {
+    "bed": 6,
+    "bath": 6.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 3,
+    "bath": 4.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 7,
+    "bath": 3.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 5.3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 4,
+    "bath": 6.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 4.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 3,
+    "bath": 5.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 11,
+    "bath": 11.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 5,
+    "total_listings": "1"
+  },
+  {
+    "bed": 4,
+    "bath": 36,
+    "total_listings": "1"
+  },
+  {
+    "bed": 4,
+    "bath": 3.3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 9,
+    "bath": 8,
+    "total_listings": "1"
+  },
+  {
+    "bed": 9,
+    "bath": 5.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 6.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 3,
+    "bath": 0.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 10,
+    "bath": 3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 10,
+    "bath": 4,
+    "total_listings": "1"
+  },
+  {
+    "bed": 6,
+    "bath": 4.3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 2,
+    "bath": 1.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 5.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 6,
+    "bath": 3.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 6,
+    "bath": 4.2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 9,
+    "bath": 2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 7.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 12,
+    "bath": 3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 10,
+    "bath": 6,
+    "total_listings": "1"
+  },
+  {
+    "bed": 7,
+    "bath": 2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 2.4,
+    "total_listings": "1"
+  },
+  {
+    "bed": 4,
+    "bath": 2.3,
+    "total_listings": "1"
+  },
+  {
+    "bed": 5,
+    "bath": 1.1,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 2,
+    "total_listings": "1"
+  },
+  {
+    "bed": 8,
+    "bath": 3.1,
+    "total_listings": "1"
+  }
+]

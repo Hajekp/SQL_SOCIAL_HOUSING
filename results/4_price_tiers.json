@@ -1,0 +1,14 @@
+[
+  {
+    "price_category": "Luxury",
+    "total_listings": "4071"
+  },
+  {
+    "price_category": "Mid-range",
+    "total_listings": "6214"
+  },
+  {
+    "price_category": "Affordable",
+    "total_listings": "5189"
+  }
+]

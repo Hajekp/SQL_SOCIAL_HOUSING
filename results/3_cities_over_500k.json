@@ -1,0 +1,1210 @@
+[
+  {
+    "city": "Newport Coast, CA",
+    "average_price": "1819500.00"
+  },
+  {
+    "city": "Corona del Mar, CA",
+    "average_price": "1799995.00"
+  },
+  {
+    "city": "Solvang, CA",
+    "average_price": "1795000.00"
+  },
+  {
+    "city": "Palos Verdes Estates, CA",
+    "average_price": "1784000.00"
+  },
+  {
+    "city": "Villa Park, CA",
+    "average_price": "1771999.80"
+  },
+  {
+    "city": "Westchester, CA",
+    "average_price": "1750000.00"
+  },
+  {
+    "city": "Rancho Santa Fe, CA",
+    "average_price": "1724987.56"
+  },
+  {
+    "city": "West Hollywood, CA",
+    "average_price": "1679000.00"
+  },
+  {
+    "city": "Venice, CA",
+    "average_price": "1669142.86"
+  },
+  {
+    "city": "La Jolla, CA",
+    "average_price": "1653508.95"
+  },
+  {
+    "city": "El Segundo, CA",
+    "average_price": "1648640.00"
+  },
+  {
+    "city": "San Marino, CA",
+    "average_price": "1643250.00"
+  },
+  {
+    "city": "Playa del Rey, CA",
+    "average_price": "1622000.00"
+  },
+  {
+    "city": "Cardiff, CA",
+    "average_price": "1616333.33"
+  },
+  {
+    "city": "Valley Village, CA",
+    "average_price": "1593600.00"
+  },
+  {
+    "city": "Beverly Hills, CA",
+    "average_price": "1585750.00"
+  },
+  {
+    "city": "Del Mar, CA",
+    "average_price": "1577181.82"
+  },
+  {
+    "city": "Toluca Lake, CA",
+    "average_price": "1549000.00"
+  },
+  {
+    "city": "Hermosa Beach, CA",
+    "average_price": "1499000.00"
+  },
+  {
+    "city": "Newport Beach, CA",
+    "average_price": "1487798.95"
+  },
+  {
+    "city": "Coronado, CA",
+    "average_price": "1486999.83"
+  },
+  {
+    "city": "Solana Beach, CA",
+    "average_price": "1483181.82"
+  },
+  {
+    "city": "Sherman Oaks, CA",
+    "average_price": "1481485.71"
+  },
+  {
+    "city": "Rancho Palos Verdes, CA",
+    "average_price": "1476790.00"
+  },
+  {
+    "city": "Lake Sherwood, CA",
+    "average_price": "1472800.00"
+  },
+  {
+    "city": "Redondo Beach, CA",
+    "average_price": "1430833.33"
+  },
+  {
+    "city": "Santa Monica, CA",
+    "average_price": "1422500.00"
+  },
+  {
+    "city": "Arcadia, CA",
+    "average_price": "1396480.50"
+  },
+  {
+    "city": "Laguna Beach, CA",
+    "average_price": "1380493.33"
+  },
+  {
+    "city": "Rossmoor, CA",
+    "average_price": "1363833.33"
+  },
+  {
+    "city": "Montecito, CA",
+    "average_price": "1350000.00"
+  },
+  {
+    "city": "Westlake Village, CA",
+    "average_price": "1347822.05"
+  },
+  {
+    "city": "Studio City, CA",
+    "average_price": "1345800.00"
+  },
+  {
+    "city": "Calabasas, CA",
+    "average_price": "1344675.00"
+  },
+  {
+    "city": "Pacific Beach, CA",
+    "average_price": "1327750.00"
+  },
+  {
+    "city": "Pacific Palisades, CA",
+    "average_price": "1324500.00"
+  },
+  {
+    "city": "Culver City, CA",
+    "average_price": "1319977.40"
+  },
+  {
+    "city": "La Canada Flintridge, CA",
+    "average_price": "1287799.60"
+  },
+  {
+    "city": "Malibu, CA",
+    "average_price": "1265000.00"
+  },
+  {
+    "city": "Shadow Hills, CA",
+    "average_price": "1259333.33"
+  },
+  {
+    "city": "Coto de Caza, CA",
+    "average_price": "1255910.35"
+  },
+  {
+    "city": "Encinitas, CA",
+    "average_price": "1252038.84"
+  },
+  {
+    "city": "New Cuyama, CA",
+    "average_price": "1250000.00"
+  },
+  {
+    "city": "La Habra Heights, CA",
+    "average_price": "1248979.93"
+  },
+  {
+    "city": "Carpinteria, CA",
+    "average_price": "1243330.00"
+  },
+  {
+    "city": "Los Alamitos, CA",
+    "average_price": "1239600.00"
+  },
+  {
+    "city": "Santa Barbara, CA",
+    "average_price": "1234454.55"
+  },
+  {
+    "city": "Irvine, CA",
+    "average_price": "1234174.91"
+  },
+  {
+    "city": "Somis, CA",
+    "average_price": "1210987.25"
+  },
+  {
+    "city": "Dana Point, CA",
+    "average_price": "1200731.89"
+  },
+  {
+    "city": "Sierra Madre, CA",
+    "average_price": "1180000.00"
+  },
+  {
+    "city": "Oak Glen, CA",
+    "average_price": "1175833.33"
+  },
+  {
+    "city": "North Tustin, CA",
+    "average_price": "1152217.59"
+  },
+  {
+    "city": "Eagle Rock, CA",
+    "average_price": "1149350.00"
+  },
+  {
+    "city": "Cardiff by the Sea, CA",
+    "average_price": "1134475.00"
+  },
+  {
+    "city": "Indian Wells, CA",
+    "average_price": "1114708.86"
+  },
+  {
+    "city": "Ojai, CA",
+    "average_price": "1100416.23"
+  },
+  {
+    "city": "Pasadena, CA",
+    "average_price": "1086179.31"
+  },
+  {
+    "city": "Carlsbad, CA",
+    "average_price": "1081668.16"
+  },
+  {
+    "city": "Glendale, CA",
+    "average_price": "1066614.53"
+  },
+  {
+    "city": "Trabuco Canyon, CA",
+    "average_price": "1064875.00"
+  },
+  {
+    "city": "Yorba Linda, CA",
+    "average_price": "1053614.56"
+  },
+  {
+    "city": "Oak Park, CA",
+    "average_price": "1048283.86"
+  },
+  {
+    "city": "Porter Ranch, CA",
+    "average_price": "1041559.50"
+  },
+  {
+    "city": "Avila Beach, CA",
+    "average_price": "1040916.67"
+  },
+  {
+    "city": "Santa Ynez, CA",
+    "average_price": "1030560.00"
+  },
+  {
+    "city": "Homeland, CA",
+    "average_price": "1030500.00"
+  },
+  {
+    "city": "Pismo Beach, CA",
+    "average_price": "1028363.16"
+  },
+  {
+    "city": "Cuyama, CA",
+    "average_price": "1025000.00"
+  },
+  {
+    "city": "Laguna Niguel, CA",
+    "average_price": "1017383.02"
+  },
+  {
+    "city": "Costa Mesa, CA",
+    "average_price": "1006293.83"
+  },
+  {
+    "city": "Tustin, CA",
+    "average_price": "1005037.42"
+  },
+  {
+    "city": "Huntington Beach, CA",
+    "average_price": "1004161.30"
+  },
+  {
+    "city": "Woodland Hills, CA",
+    "average_price": "999892.64"
+  },
+  {
+    "city": "Laguna Hills, CA",
+    "average_price": "999349.93"
+  },
+  {
+    "city": "Echo Park, CA",
+    "average_price": "999000.00"
+  },
+  {
+    "city": "Modjeska Canyon, CA",
+    "average_price": "995000.00"
+  },
+  {
+    "city": "San Clemente, CA",
+    "average_price": "994795.63"
+  },
+  {
+    "city": "Agoura Hills, CA",
+    "average_price": "982618.09"
+  },
+  {
+    "city": "San Juan Capistrano, CA",
+    "average_price": "979727.78"
+  },
+  {
+    "city": "Rancho Mirage, CA",
+    "average_price": "979645.43"
+  },
+  {
+    "city": "Burbank, CA",
+    "average_price": "976362.05"
+  },
+  {
+    "city": "Fountain Valley, CA",
+    "average_price": "972268.59"
+  },
+  {
+    "city": "Tarzana, CA",
+    "average_price": "971700.00"
+  },
+  {
+    "city": "Newbury Park, CA",
+    "average_price": "971630.16"
+  },
+  {
+    "city": "Thousand Oaks, CA",
+    "average_price": "970657.20"
+  },
+  {
+    "city": "Los Osos, CA",
+    "average_price": "967270.00"
+  },
+  {
+    "city": "Ladera Ranch, CA",
+    "average_price": "961193.77"
+  },
+  {
+    "city": "Encino, CA",
+    "average_price": "948126.67"
+  },
+  {
+    "city": "Altadena, CA",
+    "average_price": "946877.06"
+  },
+  {
+    "city": "Bonsall, CA",
+    "average_price": "945536.18"
+  },
+  {
+    "city": "Cayucos, CA",
+    "average_price": "943333.33"
+  },
+  {
+    "city": "Palm Springs, CA",
+    "average_price": "940095.65"
+  },
+  {
+    "city": "Monrovia, CA",
+    "average_price": "931618.63"
+  },
+  {
+    "city": "Creston, CA",
+    "average_price": "926526.60"
+  },
+  {
+    "city": "Arroyo Grande, CA",
+    "average_price": "926324.34"
+  },
+  {
+    "city": "Aliso Viejo, CA",
+    "average_price": "924399.89"
+  },
+  {
+    "city": "Cambria, CA",
+    "average_price": "923628.38"
+  },
+  {
+    "city": "San Luis Obispo, CA",
+    "average_price": "915387.47"
+  },
+  {
+    "city": "La Quinta, CA",
+    "average_price": "911777.74"
+  },
+  {
+    "city": "Rowland Heights, CA",
+    "average_price": "910594.61"
+  },
+  {
+    "city": "Thermal, CA",
+    "average_price": "909270.00"
+  },
+  {
+    "city": "Lake Forest, CA",
+    "average_price": "908237.90"
+  },
+  {
+    "city": "Templeton, CA",
+    "average_price": "904825.71"
+  },
+  {
+    "city": "Walnut, CA",
+    "average_price": "901475.79"
+  },
+  {
+    "city": "Big Bear Lake, CA",
+    "average_price": "896600.00"
+  },
+  {
+    "city": "View Park, CA",
+    "average_price": "894950.00"
+  },
+  {
+    "city": "Goleta, CA",
+    "average_price": "888000.00"
+  },
+  {
+    "city": "Ventura, CA",
+    "average_price": "887929.54"
+  },
+  {
+    "city": "Montrose, CA",
+    "average_price": "884500.00"
+  },
+  {
+    "city": "Poway, CA",
+    "average_price": "883559.78"
+  },
+  {
+    "city": "Mountain Center, CA",
+    "average_price": "881558.33"
+  },
+  {
+    "city": "Diamond Bar, CA",
+    "average_price": "879757.69"
+  },
+  {
+    "city": "Temple City, CA",
+    "average_price": "878527.27"
+  },
+  {
+    "city": "Los Alamos, CA",
+    "average_price": "872000.00"
+  },
+  {
+    "city": "Valley Glen, CA",
+    "average_price": "870475.00"
+  },
+  {
+    "city": "Needles, CA",
+    "average_price": "869799.83"
+  },
+  {
+    "city": "Oxnard, CA",
+    "average_price": "868214.58"
+  },
+  {
+    "city": "Oak View, CA",
+    "average_price": "857595.00"
+  },
+  {
+    "city": "Anaheim Hills, CA",
+    "average_price": "853091.09"
+  },
+  {
+    "city": "Blue Jay, CA",
+    "average_price": "852000.00"
+  },
+  {
+    "city": "Chino Hills, CA",
+    "average_price": "849729.73"
+  },
+  {
+    "city": "San Gabriel, CA",
+    "average_price": "845998.20"
+  },
+  {
+    "city": "San Diego, CA",
+    "average_price": "843091.32"
+  },
+  {
+    "city": "Nipomo, CA",
+    "average_price": "839876.31"
+  },
+  {
+    "city": "Camarillo, CA",
+    "average_price": "837137.07"
+  },
+  {
+    "city": "Lomita, CA",
+    "average_price": "834977.78"
+  },
+  {
+    "city": "Lake Arrowhead, CA",
+    "average_price": "834496.11"
+  },
+  {
+    "city": "Pioneertown, CA",
+    "average_price": "834257.14"
+  },
+  {
+    "city": "Cerritos, CA",
+    "average_price": "824700.00"
+  },
+  {
+    "city": "Highland Park, CA",
+    "average_price": "824000.00"
+  },
+  {
+    "city": "Sunland, CA",
+    "average_price": "823999.80"
+  },
+  {
+    "city": "Bonita, CA",
+    "average_price": "821219.00"
+  },
+  {
+    "city": "Moorpark, CA",
+    "average_price": "818385.60"
+  },
+  {
+    "city": "Hacienda Heights, CA",
+    "average_price": "816615.16"
+  },
+  {
+    "city": "Rancho Cucamonga, CA",
+    "average_price": "815164.32"
+  },
+  {
+    "city": "Los Angeles, CA",
+    "average_price": "812124.61"
+  },
+  {
+    "city": "Palm Desert, CA",
+    "average_price": "810692.94"
+  },
+  {
+    "city": "Rancho Santa Margarita, CA",
+    "average_price": "805556.52"
+  },
+  {
+    "city": "Fullerton, CA",
+    "average_price": "802996.08"
+  },
+  {
+    "city": "Hawthorne, CA",
+    "average_price": "799249.92"
+  },
+  {
+    "city": "Temecula, CA",
+    "average_price": "797134.57"
+  },
+  {
+    "city": "La Verne, CA",
+    "average_price": "797099.88"
+  },
+  {
+    "city": "La Palma, CA",
+    "average_price": "795250.00"
+  },
+  {
+    "city": "Kernville, CA",
+    "average_price": "793300.00"
+  },
+  {
+    "city": "Orange, CA",
+    "average_price": "789364.39"
+  },
+  {
+    "city": "Alhambra, CA",
+    "average_price": "787086.36"
+  },
+  {
+    "city": "Canyon Lake, CA",
+    "average_price": "783383.45"
+  },
+  {
+    "city": "Upland, CA",
+    "average_price": "782961.86"
+  },
+  {
+    "city": "El Mirage, CA",
+    "average_price": "779900.00"
+  },
+  {
+    "city": "Cypress, CA",
+    "average_price": "775026.40"
+  },
+  {
+    "city": "Chatsworth, CA",
+    "average_price": "773224.92"
+  },
+  {
+    "city": "La Mesa, CA",
+    "average_price": "773047.55"
+  },
+  {
+    "city": "Simi Valley, CA",
+    "average_price": "769184.71"
+  },
+  {
+    "city": "Midway City, CA",
+    "average_price": "766600.00"
+  },
+  {
+    "city": "Morro Bay, CA",
+    "average_price": "766177.45"
+  },
+  {
+    "city": "La Crescenta, CA",
+    "average_price": "765430.77"
+  },
+  {
+    "city": "Torrance, CA",
+    "average_price": "763581.36"
+  },
+  {
+    "city": "Alta Loma, CA",
+    "average_price": "763495.69"
+  },
+  {
+    "city": "Mission Viejo, CA",
+    "average_price": "763411.64"
+  },
+  {
+    "city": "Brea, CA",
+    "average_price": "762118.55"
+  },
+  {
+    "city": "Claremont, CA",
+    "average_price": "762072.36"
+  },
+  {
+    "city": "Cedarpines Park, CA",
+    "average_price": "761650.00"
+  },
+  {
+    "city": "Stevenson Ranch, CA",
+    "average_price": "757985.71"
+  },
+  {
+    "city": "Harbor City, CA",
+    "average_price": "757980.00"
+  },
+  {
+    "city": "Lakeview Terrace, CA",
+    "average_price": "757000.00"
+  },
+  {
+    "city": "Placentia, CA",
+    "average_price": "756033.90"
+  },
+  {
+    "city": "Lake Balboa, CA",
+    "average_price": "754941.67"
+  },
+  {
+    "city": "Glendora, CA",
+    "average_price": "754357.26"
+  },
+  {
+    "city": "Silverado, CA",
+    "average_price": "754250.00"
+  },
+  {
+    "city": "Monterey Park, CA",
+    "average_price": "752518.40"
+  },
+  {
+    "city": "West Hills, CA",
+    "average_price": "752354.44"
+  },
+  {
+    "city": "Rosemead, CA",
+    "average_price": "752066.67"
+  },
+  {
+    "city": "Buellton, CA",
+    "average_price": "749900.00"
+  },
+  {
+    "city": "Santa Paula, CA",
+    "average_price": "749841.84"
+  },
+  {
+    "city": "Alpine, CA",
+    "average_price": "749653.85"
+  },
+  {
+    "city": "Gorman, CA",
+    "average_price": "749333.33"
+  },
+  {
+    "city": "Westminster, CA",
+    "average_price": "745412.25"
+  },
+  {
+    "city": "Inglewood, CA",
+    "average_price": "735768.69"
+  },
+  {
+    "city": "Big Bear, CA",
+    "average_price": "734385.98"
+  },
+  {
+    "city": "Fallbrook, CA",
+    "average_price": "734265.45"
+  },
+  {
+    "city": "Norco, CA",
+    "average_price": "730819.24"
+  },
+  {
+    "city": "Murrieta, CA",
+    "average_price": "728659.08"
+  },
+  {
+    "city": "Jamul, CA",
+    "average_price": "728033.33"
+  },
+  {
+    "city": "Van Nuys, CA",
+    "average_price": "726907.48"
+  },
+  {
+    "city": "Garden Grove, CA",
+    "average_price": "719856.58"
+  },
+  {
+    "city": "Vista, CA",
+    "average_price": "715754.64"
+  },
+  {
+    "city": "Canyon Country, CA",
+    "average_price": "714729.56"
+  },
+  {
+    "city": "Stanton, CA",
+    "average_price": "713935.20"
+  },
+  {
+    "city": "Northridge, CA",
+    "average_price": "713003.72"
+  },
+  {
+    "city": "Azusa, CA",
+    "average_price": "712716.67"
+  },
+  {
+    "city": "San Dimas, CA",
+    "average_price": "705700.00"
+  },
+  {
+    "city": "Long Beach, CA",
+    "average_price": "702852.64"
+  },
+  {
+    "city": "Valley Center, CA",
+    "average_price": "700375.68"
+  },
+  {
+    "city": "Los Feliz, CA",
+    "average_price": "699000.00"
+  },
+  {
+    "city": "Downey, CA",
+    "average_price": "695588.78"
+  },
+  {
+    "city": "Granada Hills, CA",
+    "average_price": "695571.14"
+  },
+  {
+    "city": "La Conchita, CA",
+    "average_price": "695000.00"
+  },
+  {
+    "city": "Redlands, CA",
+    "average_price": "694560.11"
+  },
+  {
+    "city": "Sun Valley, CA",
+    "average_price": "692927.27"
+  },
+  {
+    "city": "South Pasadena, CA",
+    "average_price": "692000.00"
+  },
+  {
+    "city": "Duarte, CA",
+    "average_price": "688731.13"
+  },
+  {
+    "city": "West Covina, CA",
+    "average_price": "683160.35"
+  },
+  {
+    "city": "Atascadero, CA",
+    "average_price": "680460.63"
+  },
+  {
+    "city": "Corona, CA",
+    "average_price": "680318.07"
+  },
+  {
+    "city": "San Pedro, CA",
+    "average_price": "680056.43"
+  },
+  {
+    "city": "Escondido, CA",
+    "average_price": "678740.52"
+  },
+  {
+    "city": "Mission Hills, CA",
+    "average_price": "676700.00"
+  },
+  {
+    "city": "Bermuda Dunes, CA",
+    "average_price": "676034.74"
+  },
+  {
+    "city": "North Hills, CA",
+    "average_price": "675931.11"
+  },
+  {
+    "city": "Santa Ana, CA",
+    "average_price": "672385.80"
+  },
+  {
+    "city": "La Habra, CA",
+    "average_price": "671790.20"
+  },
+  {
+    "city": "Vandenberg Village, CA",
+    "average_price": "670900.00"
+  },
+  {
+    "city": "San Miguel, CA",
+    "average_price": "667983.33"
+  },
+  {
+    "city": "Rancho Bernardo, CA",
+    "average_price": "662940.00"
+  },
+  {
+    "city": "Imperial Beach, CA",
+    "average_price": "661430.53"
+  },
+  {
+    "city": "Dulzura, CA",
+    "average_price": "659250.00"
+  },
+  {
+    "city": "Topanga, CA",
+    "average_price": "658600.00"
+  },
+  {
+    "city": "Montebello, CA",
+    "average_price": "655818.75"
+  },
+  {
+    "city": "Winnetka, CA",
+    "average_price": "653449.64"
+  },
+  {
+    "city": "Chino, CA",
+    "average_price": "652651.95"
+  },
+  {
+    "city": "Paso Robles, CA",
+    "average_price": "651171.14"
+  },
+  {
+    "city": "Agua Dulce, CA",
+    "average_price": "650580.00"
+  },
+  {
+    "city": "Ocean Beach, CA",
+    "average_price": "650000.00"
+  },
+  {
+    "city": "Hollywood, CA",
+    "average_price": "650000.00"
+  },
+  {
+    "city": "Reseda, CA",
+    "average_price": "647775.00"
+  },
+  {
+    "city": "Chula Vista, CA",
+    "average_price": "646998.81"
+  },
+  {
+    "city": "North Hollywood, CA",
+    "average_price": "645798.20"
+  },
+  {
+    "city": "Wrightwood, CA",
+    "average_price": "642750.06"
+  },
+  {
+    "city": "Grover Beach, CA",
+    "average_price": "642534.38"
+  },
+  {
+    "city": "Anaheim, CA",
+    "average_price": "641965.25"
+  },
+  {
+    "city": "Newhall, CA",
+    "average_price": "641600.00"
+  },
+  {
+    "city": "Whittier, CA",
+    "average_price": "640957.85"
+  },
+  {
+    "city": "El Monte, CA",
+    "average_price": "640649.94"
+  },
+  {
+    "city": "Santa Margarita, CA",
+    "average_price": "639633.33"
+  },
+  {
+    "city": "Valencia, CA",
+    "average_price": "639296.44"
+  },
+  {
+    "city": "Pauma Valley, CA",
+    "average_price": "636856.25"
+  },
+  {
+    "city": "Castaic, CA",
+    "average_price": "636300.00"
+  },
+  {
+    "city": "Canoga Park, CA",
+    "average_price": "634288.00"
+  },
+  {
+    "city": "Riverside, CA",
+    "average_price": "633910.26"
+  },
+  {
+    "city": "Ramona, CA",
+    "average_price": "631414.15"
+  },
+  {
+    "city": "Buena Park, CA",
+    "average_price": "631264.03"
+  },
+  {
+    "city": "El Cajon, CA",
+    "average_price": "628304.66"
+  },
+  {
+    "city": "Lakewood, CA",
+    "average_price": "627335.25"
+  },
+  {
+    "city": "Gardena, CA",
+    "average_price": "626833.33"
+  },
+  {
+    "city": "Saugus, CA",
+    "average_price": "625096.74"
+  },
+  {
+    "city": "Lawndale, CA",
+    "average_price": "625000.00"
+  },
+  {
+    "city": "San Marcos, CA",
+    "average_price": "618538.78"
+  },
+  {
+    "city": "Arleta, CA",
+    "average_price": "616242.86"
+  },
+  {
+    "city": "La Mirada, CA",
+    "average_price": "615339.29"
+  },
+  {
+    "city": "Big Bear City, CA",
+    "average_price": "610475.00"
+  },
+  {
+    "city": "Yucaipa, CA",
+    "average_price": "609939.23"
+  },
+  {
+    "city": "Bellflower, CA",
+    "average_price": "604086.67"
+  },
+  {
+    "city": "Phillips Ranch, CA",
+    "average_price": "599000.00"
+  },
+  {
+    "city": "Lucerne Valley, CA",
+    "average_price": "596000.00"
+  },
+  {
+    "city": "Santee, CA",
+    "average_price": "592229.71"
+  },
+  {
+    "city": "Mira Loma, CA",
+    "average_price": "591642.55"
+  },
+  {
+    "city": "Fawnskin, CA",
+    "average_price": "590661.46"
+  },
+  {
+    "city": "Covina, CA",
+    "average_price": "589765.59"
+  },
+  {
+    "city": "Port Hueneme, CA",
+    "average_price": "584705.56"
+  },
+  {
+    "city": "Cherry Valley, CA",
+    "average_price": "582885.18"
+  },
+  {
+    "city": "Lompoc, CA",
+    "average_price": "579865.63"
+  },
+  {
+    "city": "Tujunga, CA",
+    "average_price": "577247.63"
+  },
+  {
+    "city": "Inyokern, CA",
+    "average_price": "576666.67"
+  },
+  {
+    "city": "Santa Fe Springs, CA",
+    "average_price": "576666.33"
+  },
+  {
+    "city": "Sylmar, CA",
+    "average_price": "574698.34"
+  },
+  {
+    "city": "Santa Maria, CA",
+    "average_price": "573973.76"
+  },
+  {
+    "city": "Lemon Grove, CA",
+    "average_price": "570228.52"
+  },
+  {
+    "city": "Oak Hills, CA",
+    "average_price": "569378.94"
+  },
+  {
+    "city": "Carson, CA",
+    "average_price": "569316.67"
+  },
+  {
+    "city": "Fillmore, CA",
+    "average_price": "568679.04"
+  },
+  {
+    "city": "Idyllwild, CA",
+    "average_price": "568075.00"
+  },
+  {
+    "city": "Jacumba, CA",
+    "average_price": "559000.00"
+  },
+  {
+    "city": "Panorama City, CA",
+    "average_price": "557966.67"
+  },
+  {
+    "city": "Bloomington, CA",
+    "average_price": "555907.33"
+  },
+  {
+    "city": "Wildomar, CA",
+    "average_price": "554848.49"
+  },
+  {
+    "city": "Oceanside, CA",
+    "average_price": "554679.30"
+  },
+  {
+    "city": "Descanso, CA",
+    "average_price": "553386.67"
+  },
+  {
+    "city": "Loma Linda, CA",
+    "average_price": "552048.33"
+  },
+  {
+    "city": "San Fernando, CA",
+    "average_price": "549575.00"
+  },
+  {
+    "city": "Newberry Springs, CA",
+    "average_price": "549500.00"
+  },
+  {
+    "city": "Oceano, CA",
+    "average_price": "549099.96"
+  },
+  {
+    "city": "Baldwin Park, CA",
+    "average_price": "549063.10"
+  },
+  {
+    "city": "Winchester, CA",
+    "average_price": "548126.42"
+  },
+  {
+    "city": "Bear Valley Springs, CA",
+    "average_price": "545000.00"
+  },
+  {
+    "city": "Pico Rivera, CA",
+    "average_price": "544653.27"
+  },
+  {
+    "city": "Arvin, CA",
+    "average_price": "540600.00"
+  },
+  {
+    "city": "Spring Valley, CA",
+    "average_price": "540318.07"
+  },
+  {
+    "city": "Caliente, CA",
+    "average_price": "537250.00"
+  },
+  {
+    "city": "Acton, CA",
+    "average_price": "533394.58"
+  },
+  {
+    "city": "La Puente, CA",
+    "average_price": "532328.70"
+  },
+  {
+    "city": "Ontario, CA",
+    "average_price": "530851.10"
+  },
+  {
+    "city": "Lakeside, CA",
+    "average_price": "524451.79"
+  },
+  {
+    "city": "Wofford Heights, CA",
+    "average_price": "524000.00"
+  },
+  {
+    "city": "Joshua Tree, CA",
+    "average_price": "522665.91"
+  },
+  {
+    "city": "Belltown, CA",
+    "average_price": "522041.37"
+  },
+  {
+    "city": "Norwalk, CA",
+    "average_price": "516722.75"
+  },
+  {
+    "city": "Montclair, CA",
+    "average_price": "515700.00"
+  },
+  {
+    "city": "East Los Angeles, CA",
+    "average_price": "510985.57"
+  },
+  {
+    "city": "Pine Valley, CA",
+    "average_price": "510700.00"
+  },
+  {
+    "city": "Commerce, CA",
+    "average_price": "505000.00"
+  },
+  {
+    "city": "Pinon Hills, CA",
+    "average_price": "502571.43"
+  }
+]

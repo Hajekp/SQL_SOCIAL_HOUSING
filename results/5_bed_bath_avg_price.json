@@ -1,0 +1,134 @@
+[
+  {
+    "bed": 3,
+    "bath": 2,
+    "total_listings": "3087",
+    "average_price": "561753.25"
+  },
+  {
+    "bed": 4,
+    "bath": 3,
+    "total_listings": "1734",
+    "average_price": "740913.40"
+  },
+  {
+    "bed": 4,
+    "bath": 2,
+    "total_listings": "1181",
+    "average_price": "582932.43"
+  },
+  {
+    "bed": 3,
+    "bath": 2.1,
+    "total_listings": "1104",
+    "average_price": "692265.40"
+  },
+  {
+    "bed": 2,
+    "bath": 2,
+    "total_listings": "936",
+    "average_price": "478860.40"
+  },
+  {
+    "bed": 4,
+    "bath": 2.1,
+    "total_listings": "920",
+    "average_price": "720574.37"
+  },
+  {
+    "bed": 2,
+    "bath": 1,
+    "total_listings": "763",
+    "average_price": "462050.62"
+  },
+  {
+    "bed": 3,
+    "bath": 3,
+    "total_listings": "736",
+    "average_price": "780006.24"
+  },
+  {
+    "bed": 5,
+    "bath": 3,
+    "total_listings": "694",
+    "average_price": "711704.52"
+  },
+  {
+    "bed": 4,
+    "bath": 3.1,
+    "total_listings": "510",
+    "average_price": "928652.23"
+  },
+  {
+    "bed": 3,
+    "bath": 1,
+    "total_listings": "416",
+    "average_price": "492219.44"
+  },
+  {
+    "bed": 3,
+    "bath": 3.1,
+    "total_listings": "355",
+    "average_price": "970116.49"
+  },
+  {
+    "bed": 4,
+    "bath": 4.1,
+    "total_listings": "278",
+    "average_price": "1281770.87"
+  },
+  {
+    "bed": 5,
+    "bath": 4.1,
+    "total_listings": "272",
+    "average_price": "1170514.83"
+  },
+  {
+    "bed": 5,
+    "bath": 3.1,
+    "total_listings": "260",
+    "average_price": "947927.43"
+  },
+  {
+    "bed": 4,
+    "bath": 4,
+    "total_listings": "249",
+    "average_price": "944694.93"
+  },
+  {
+    "bed": 5,
+    "bath": 4,
+    "total_listings": "227",
+    "average_price": "940435.74"
+  },
+  {
+    "bed": 1,
+    "bath": 1,
+    "total_listings": "174",
+    "average_price": "477033.05"
+  },
+  {
+    "bed": 3,
+    "bath": 1.1,
+    "total_listings": "164",
+    "average_price": "514135.38"
+  },
+  {
+    "bed": 2,
+    "bath": 1.1,
+    "total_listings": "126",
+    "average_price": "453461.07"
+  },
+  {
+    "bed": 5,
+    "bath": 2.1,
+    "total_listings": "121",
+    "average_price": "699235.39"
+  },
+  {
+    "bed": 2,
+    "bath": 2.1,
+    "total_listings": "120",
+    "average_price": "687090.50"
+  }
+]
