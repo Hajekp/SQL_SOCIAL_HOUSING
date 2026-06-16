@@ -26,9 +26,10 @@ and bedroom/bathroom combinations to uncover patterns in the SoCal housing marke
 - Mid-range homes ($400k-$800k) make up the largest share of listings at 6,214
 
 ## Tools Used
-- PostgreSQL 18
+- PostgreSQL 16
 - pgAdmin
 - VS Code with SQLTools extension
+- Tableau Public
 
 ## Dashboard
 View the interactive Tableau dashboard here:
